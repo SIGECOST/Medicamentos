@@ -32,7 +32,7 @@
 "id":"4",
 "name":"Metoclopramida",
 "description":"Sirve para prevenir de náuseas y vómitos postoperatorios",
-"dosis"="1 cada 12 hrs",
+"dosis":"1 cada 12 hrs",
 "contraindicaciones":"No debe administrarse si presenta hemorragia gastrointestinal"
 },
 {
