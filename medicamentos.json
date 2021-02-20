@@ -53,7 +53,7 @@
   "id":"7",
 "name": "Dicloxacilina",
 "description": "Sirve para tratar infecciones causadas por ciertos tipos de bacterias",
-"dosis": "125-250 mg cada 6 horas continuar con las mismas dosis por vía oral hasta completar diez o más días",
+"dosis":"125-250 mg cada 6 horas continuar con las mismas dosis por vía oral hasta completar diez o más días",
 "contraindicaciones":"No se administre si presenta hipersensibilidad a las penicilinas"
 }, 
 {
