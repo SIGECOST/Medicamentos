@@ -2,73 +2,81 @@
 "Medicines":[
 {
 "id":"0",
-"name":"Ketorolaco",
-  "description":"Sirve para aliviar el dolor de moderado a fuerte",
-  "dosis":"1 comprimido 10 mg cada 4 a 6 horas de acuerdo con la intensidad del dolor",
-"contraindicaciones":"No debe usarse por más de cinco días"
-},
-{
-"id":"1",
-  "name":"Paracetamol",
-"description":"Sirve para reducir la fiebre y aliviar el dolor",
-"dosis":"Para adultos de 500mg a 1000mg cada 6-8 horas",
-"contraindicaciones":"Puede ser perjudicial para el hígado por lo que no debe usarse en personas con problemas hepáticos"
-},
-{
-"id":"2",
-"name":"Loratadina",
-  "description":"Sirve para aliviar en forma temporal los síntomas de la fiebre",
-"dosis":"Adultos y niños mayores de 12 años, 10 mg una vez al día",
-"contraindicaciones":"Puede presentar inflamación en la boca o a su alreadedor, o inflamación de la lengua"
-},
-{
-"id":"3",
-"name":"Ambroxol",
+  "name":"Ambroxol",
   "description":"Sirve para disminuir la viscosidad de las secreciones bronquiales y facilitando la expectoración",
 "dosis":"Adultos:30 mg cada 8 h",
 "contraindicaciones":"Al inicio de su administración produce aumento transitorio de los valores de aminotransferasag"
 },
 {
-"id":"4",
-"name":"Metoclopramida",
-"description":"Sirve para prevenir de náuseas y vómitos postoperatorios",
-"dosis":"1 cada 12 hrs",
-"contraindicaciones":"No debe administrarse si presenta hemorragia gastrointestinal"
-},
-{
-  "id":"5",
-"name": "Amikacina",
+"id":"1",
+  "name": "Amikacina",
 "description": "Sirve para tratar algunas infecciones graves que son provocadas por bacterias como la meningitis",
 "dosis": "Aplicación intravenosa durante un período de 30 a 60 minutos",
 "contraindicaciones":"No se administre en casos de hipersensibilidad"
-}, 
+
+},
 {
-"id":"6",
-"name":"Ceftriaxona",
+"id":"2",
+  "name":"Ceftriaxona",
 "description":"Sirve para tratar algunas infecciones provocadas por bacterias como la gonorrea",
 "dosis":"La dosis usual es 1-2 g de ceftriaxona administrados cada 24 horas",
 "contraindicaciones":"No se administre en pacientes con hipersensibilidad"
+
 },
 {
-  "id":"7",
-"name": "Dicloxacilina",
+"id":"3",
+  "name": "Dicloxacilina",
 "description": "Sirve para tratar infecciones causadas por ciertos tipos de bacterias",
 "dosis":"125-250 mg cada 6 horas continuar con las mismas dosis por vía oral hasta completar diez o más días",
 "contraindicaciones":"No se administre si presenta hipersensibilidad a las penicilinas"
-}, 
-{
-"id":"8",
-"name":"Penprocilina",
-"description":"Sive para tratar la amigdalitis, faringitis, neumonías, bronconeumonías, endocarditis bacteriana",
-"dosis":"Niños menores de 2 años: 200 000 U cada 12 horas, durante 7 a 10 días. Adultos",
-"contraindicaciones":"No se administre en casos de hipersensibilidad conocida a las penicilinas y/o cefalosporinas"
+
 },
 {
-"id":"9",
-"name":"Omeprazol",
+"id":"4",
+  "name":"Ketorolaco",
+  "description":"Sirve para aliviar el dolor de moderado a fuerte",
+  "dosis":"1 comprimido 10 mg cada 4 a 6 horas de acuerdo con la intensidad del dolor",
+"contraindicaciones":"No debe usarse por más de cinco días"
+
+},
+{
+  "id":"5",
+  "name":"Loratadina",
+  "description":"Sirve para aliviar en forma temporal los síntomas de la fiebre",
+"dosis":"Adultos y niños mayores de 12 años, 10 mg una vez al día",
+"contraindicaciones":"Puede presentar inflamación en la boca o a su alreadedor, o inflamación de la lengua"
+
+}, 
+{
+"id":"6",
+  "name":"Metoclopramida",
+"description":"Sirve para prevenir de náuseas y vómitos postoperatorios",
+"dosis":"1 cada 12 hrs",
+"contraindicaciones":"No debe administrarse si presenta hemorragia gastrointestinal"
+
+},
+{
+  "id":"7",
+  "name":"Omeprazol",
 "description":"Sive para tratar reflujo gastroesofágico y ácido en el estómago",
 "dosis":"1 cápsula de 20 mg al día",
 "contraindicaciones":"En el caso de abuso en el consumo puede ocasionar daño cardiaco"
+}, 
+{
+"id":"8",
+    "name":"Paracetamol",
+"description":"Sirve para reducir la fiebre y aliviar el dolor",
+"dosis":"Para adultos de 500mg a 1000mg cada 6-8 horas",
+"contraindicaciones":"Puede ser perjudicial para el hígado por lo que no debe usarse en personas con problemas hepáticos"
+
+},
+{
+"id":"9",
+  "name":"Penprocilina",
+"description":"Sive para tratar la amigdalitis, faringitis, neumonías, bronconeumonías, endocarditis bacteriana",
+"dosis":"Niños menores de 2 años: 200 000 U cada 12 horas, durante 7 a 10 días. Adultos",
+"contraindicaciones":"No se administre en casos de hipersensibilidad conocida a las penicilinas y/o cefalosporinas"
+
    }
  ]
 }
